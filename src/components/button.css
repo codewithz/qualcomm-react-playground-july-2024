@@ -1,0 +1,25 @@
+.inc-button {
+    background-color: royalblue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .inc-button:hover {
+    background-color: royalblue;
+  }
+  .dec-button {
+    background-color: gold;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .dec-button:hover {
+    background-color: gold;
+  }
+  
